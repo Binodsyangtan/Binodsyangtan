@@ -47,7 +47,7 @@ I believe in **learning by doing**, contributing to the tech community, and usin
 
 - 📧 Email: binodsyangtan04@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/binod-syangtan-0b387b284/)  
-- 🌐 [Portfolio](#) *(Coming Soon)*
+- 🌐 https://binod-syangtan.netlify.app/
 
 ---
 
