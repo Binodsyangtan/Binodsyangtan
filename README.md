@@ -26,7 +26,8 @@ I believe in **learning by doing**, contributing to the tech community, and usin
 
 ## 📈 Projects
 
-- 🛍️ [Sampanna House](https://sampanna-house.netlify.app) — A full-fledged eCommerce platform  
+- 🛍️ [Sampanna House](https://sampanna-house.netlify.app) — A full-fledged eCommerce platform
+- [yumyatra-food delivary react app] (https://yum-yatra.netlify.app/) 
 - 🛠️ [FixIt Hub](#) — A complaint registration and tracking system for local governance  
 - 🔐 Role-based Admin Panel using React + Tailwind + Node.js  
 - 📰 Blog System with dynamic blog detail pages  
