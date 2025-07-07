@@ -31,16 +31,7 @@ I believe in **learning by doing**, contributing to the tech community, and usin
 - 🛠️ [FixIt Hub](#) — A complaint registration and tracking system for local governance  
 - 🔐 Role-based Admin Panel using React + Tailwind + Node.js  
 - 📰 Blog System with dynamic blog detail pages  
-
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Node.js  
-- TypeScript  
-- System Design Basics  
-- DevOps fundamentals  
+  
 
 ---
 
