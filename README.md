@@ -37,7 +37,7 @@ I believe in **learning by doing**, contributing to the tech community, and usin
 
 ## 💬 Let's Connect
 
-- 📧 Email: binodsyangtan04@gmail.com  
+- 📧 Email: binodsyangtan9761@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/binod-syangtan-0b387b284/)  
 - 🌐 https://binod-syangtan.netlify.app/
 
