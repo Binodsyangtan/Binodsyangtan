@@ -36,7 +36,7 @@ Beyond coding, I actively contribute to tech communities, organize events, and e
 
 - 🏆 MERN Stack Certified (MindRisers)   
 - 🗣️ Hosted events & sessions on coding and communication  
-- 🤝 CodeForChange College Representative (2023–24)
+- 🤝 CodeForChange Teasurer tenure(2024-2025)
 
 ---
 
