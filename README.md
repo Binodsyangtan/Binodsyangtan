@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Binod Syangtan
 
-Co-founder @WebSathi | Full-Stack Developer | Helping Businesses in Nepal & Beyond Build Websites That Actually Work 
-💻 FULL Stack Developer | Community Contributor  
+Co-founder @WebSathi | Full-Stack Developer | Helping Businesses in Nepal & Beyond Build Websites That Actually Work   
 📈 Passionate about Tech, Learning, and Impact
 
 ---
