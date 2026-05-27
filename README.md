@@ -1,39 +1,29 @@
 # 👋 Hi there, I'm Binod Syangtan
 
-🎓 BSc. CSIT Student @ Amrit Science Campus  
+Co-founder @WebSathi | Full-Stack Developer | Helping Businesses in Nepal & Beyond Build Websites That Actually Work 
 💻 FULL Stack Developer | Community Contributor  
-📍 Vice Treasurer @ CodeForChange  
 📈 Passionate about Tech, Learning, and Impact
 
 ---
 
 ## 🚀 About Me
 
-I'm a dedicated web developer focused on building impactful and user-friendly applications. My core stack is **MERN (MongoDB, Express.js, React, Node.js)**, and I'm currently expanding my skills in **Next.js, Drizzle ORM, and PostgreSQL**.
+I'm a passionate full-stack developer from Nepal .I specialize in building modern, responsive, and user-focused web applications using the Next.js and modern backend technologies.
 
-I believe in **learning by doing**, contributing to the tech community, and using code for social good. I've been involved in organizing tech events like **CodeFest**, **ITMela**, and public speaking orientations.
+Currently, I’m focusing more on backend development, scalable architectures, APIs, authentication systems, databases, and deployment workflows.
+
+I'm also the Co-founder of WebSathi, a digital agency focused on helping businesses establish a strong online presence through modern websites and digital solutions.
+
+Beyond coding, I actively contribute to tech communities, organize events, and enjoy learning through real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Drizzle ORM  
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Prisma ORM 
 - **Tools & Platforms:** Git, GitHub, Netlify, Render, VS Code, Postman  
 - **Others:** REST APIs, Axios, React Router, Context API
-
----
-
-## 📈 Projects
-
-- 🛍️ [Sampanna House](https://sampanna-house.netlify.app) — A full-fledged eCommerce platform
-- [yumyatra-food delivary react app] (https://yum-yatra.netlify.app/) 
-- 🛠️ [FixIt Hub](#) — A complaint registration and tracking system for local governance  
-- 🔐 Role-based Admin Panel using React + Tailwind + Node.js  
-- 📰 Blog System with dynamic blog detail pages  
-  
-
----
 
 ## 💬 Let's Connect
 
